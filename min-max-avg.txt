@@ -1,4 +1,4 @@
-// min-max-avg.cpp
+// g++ -fopenmp min-max-avg.cpp
 // ./a.out
 
 
