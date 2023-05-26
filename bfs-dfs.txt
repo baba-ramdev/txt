@@ -1,3 +1,7 @@
+// g++ bfs-dfs.cpp
+// ./a.out
+
+
 #include <iostream>
 #include <vector>
 #include <queue>
