@@ -1,3 +1,8 @@
+// Save the file as cuda.cu
+// nvcc cuda.cu -o cuda_output
+// ./cuda_output
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #define N 5
