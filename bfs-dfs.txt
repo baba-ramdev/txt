@@ -1,4 +1,4 @@
-// g++ bfs-dfs.cpp
+// g++ -fopenmp bfs-dfs.cpp
 // ./a.out
 
 
