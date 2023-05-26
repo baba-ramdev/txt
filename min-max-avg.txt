@@ -1,3 +1,7 @@
+// min-max-avg.cpp
+// ./a.out
+
+
 #include <iostream>
 #include <omp.h>
 
