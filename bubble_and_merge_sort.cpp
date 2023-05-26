@@ -1,3 +1,7 @@
+// g++ -fopenmp bubble_and_merge_sort.cpp
+// ./a.out
+
+
 #include <iostream>
 #include <omp.h>
 
